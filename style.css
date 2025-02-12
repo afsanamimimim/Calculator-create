@@ -35,7 +35,7 @@ table {
 td {
     text-align: center;
     color: gray;
-    border: 1px solid grey;
+    border: none;
 }
 
 input[type="button"]{
